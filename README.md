@@ -7,4 +7,4 @@
 2024-08-18
 
 
-This is the melodic version!
+This is the neotic version!
