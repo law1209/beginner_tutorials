@@ -17,7 +17,6 @@ rosrun beginner_tutorial add_two_ints_server.py
 rosrun beginner_tutorial add_two_ints_client.py 2 3
 
 # following is the message example
-
 rosrun beginner_tutorial talker
 rosrun beginner_tutorial listener
 
