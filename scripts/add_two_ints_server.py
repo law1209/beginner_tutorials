@@ -2,7 +2,7 @@
 
 from __future__ import print_function
 
-from beginner_tutorials.srv import AddTwoInts,AddTwoIntsResponse
+from beginner_tutorials.srv import *
 import rospy
 
 def handle_add_two_ints(req):
