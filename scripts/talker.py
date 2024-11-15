@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# coding=utf-8
+
 # Software License Agreement (BSD License)
 #
 # Copyright (c) 2008, Willow Garage, Inc.
